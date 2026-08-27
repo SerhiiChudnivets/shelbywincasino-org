@@ -77,8 +77,8 @@
   "home_name": "Shelbywin Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": null,
-  "secondary_background": null,
+  "main_background": "#000000",
+  "secondary_background": "#000000",
   "button_background": "#E78417",
   "button_text_color": "#F2F2F2",
   "text_color": "#EFFFFF",
@@ -247,9 +247,9 @@
       "question": "Can I play on mobile without downloading an app?"
     }
   ],
-  "_generated_at": "2026-08-27T10:34:16.435Z",
+  "_generated_at": "2026-08-27T10:38:34.705Z",
   "_version": "1.0.0",
   "content_alt": "shelbywin bonus",
-  "_last_deploy": "2026-08-27T10:34:17.697Z",
-  "_deploy_trigger": "rv3evl"
+  "_last_deploy": "2026-08-27T10:38:35.288Z",
+  "_deploy_trigger": "ps20e"
 }
