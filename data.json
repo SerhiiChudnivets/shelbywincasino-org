@@ -146,6 +146,11 @@
       "link": "",
       "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
       "image_alt": "18+"
+    },
+    {
+      "link": "",
+      "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
+      "image_alt": "gamcare"
     }
   ],
   "Slots": [
@@ -217,9 +222,9 @@
       "question": "Can I play on mobile without downloading an app?"
     }
   ],
-  "_generated_at": "2026-08-27T10:27:32.594Z",
+  "_generated_at": "2026-08-27T10:29:13.767Z",
   "_version": "1.0.0",
   "content_alt": "shelbywin bonus",
-  "_last_deploy": "2026-08-27T10:27:33.131Z",
-  "_deploy_trigger": "nrvnff"
+  "_last_deploy": "2026-08-27T10:29:14.338Z",
+  "_deploy_trigger": "7x90k"
 }
