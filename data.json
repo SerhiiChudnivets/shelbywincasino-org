@@ -197,7 +197,7 @@
   ],
   "footer_images": [
     {
-      "link": "",
+      "link": "https://responsiblegambling.org/",
       "image": "/uploads/0b535bc7edadb208aa9a48d4388718df.svg",
       "image_alt": "responsible gaming"
     },
@@ -207,7 +207,7 @@
       "image_alt": "18+"
     },
     {
-      "link": "",
+      "link": "https://www.gamcare.org.uk/",
       "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
       "image_alt": "gamcare"
     }
@@ -281,9 +281,9 @@
       "question": "Can I play on mobile without downloading an app?"
     }
   ],
-  "_generated_at": "2026-08-27T11:43:06.935Z",
+  "_generated_at": "2026-08-27T11:44:19.310Z",
   "_version": "1.0.0",
   "content_alt": "shelbywin bonus",
-  "_last_deploy": "2026-08-27T11:43:07.518Z",
-  "_deploy_trigger": "54f879"
+  "_last_deploy": "2026-08-27T11:44:19.853Z",
+  "_deploy_trigger": "ofybp8"
 }
