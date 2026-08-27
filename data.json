@@ -244,8 +244,8 @@
     {
       "link": "/play/",
       "logo": "/uploads/84b8bb6efb01f9fe942a68455c4a62db.webp",
-      "name": "First Deposit Bonus: 400% bonus plus 200 Free Spins ",
-      "Name": "First Deposit Bonus: 400% bonus plus 200 Free Spins "
+      "name": "First Deposit Bonus: 400% bonus + 200 Free Spins ",
+      "Name": "First Deposit Bonus: 400% bonus + 200 Free Spins "
     },
     {
       "link": "/play/",
@@ -283,10 +283,10 @@
       "question": "Can I play on mobile without downloading an app?"
     }
   ],
-  "_generated_at": "2026-08-27T11:56:53.852Z",
+  "_generated_at": "2026-08-27T11:58:49.476Z",
   "_version": "1.0.0",
   "html_head_alt": "shelbywin baner",
   "content_alt": "shelbywin bonus",
-  "_last_deploy": "2026-08-27T11:56:54.443Z",
-  "_deploy_trigger": "0gis0v"
+  "_last_deploy": "2026-08-27T11:58:50.025Z",
+  "_deploy_trigger": "o3ocw"
 }
