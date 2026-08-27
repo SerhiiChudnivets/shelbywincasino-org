@@ -81,7 +81,7 @@
   "secondary_background": null,
   "button_background": "#E78417",
   "button_text_color": "#F2F2F2",
-  "text_color": "#2F1B05",
+  "text_color": "#EFFFFF",
   "color_highlight_text": "#F2F2F2",
   "color_main_btn_text": "#F2F2F2",
   "cta_background": "#E78417",
@@ -217,9 +217,9 @@
       "question": "Can I play on mobile without downloading an app?"
     }
   ],
-  "_generated_at": "2026-08-27T10:22:43.712Z",
+  "_generated_at": "2026-08-27T10:24:37.533Z",
   "_version": "1.0.0",
   "content_alt": "shelbywin bonus",
-  "_last_deploy": "2026-08-27T10:22:44.295Z",
-  "_deploy_trigger": "gr8c88"
+  "_last_deploy": "2026-08-27T10:24:38.083Z",
+  "_deploy_trigger": "tv6l8"
 }
