@@ -15,18 +15,18 @@
   "seo_description": "Experience top-tier gaming at Shelbywin Casino. Explore thousands of slots, live dealer tables, and exclusive welcome 4 packages. Join Shelbywin today!",
   "redirect_site": null,
   "hero_title": "ShelbyWin Casino UK – Official Site 2026",
-  "hero_subtitle": null,
+  "hero_subtitle": "Welcome Bonus",
   "hero_badge": "ShelbyWin Casino UK – Get Best Bonuses",
   "cta_text": "Claim",
   "tagline": "400% bonus plus 200 Free Spins on Starburst",
   "features_list": null,
   "footer_text": "© 2026. ShelbyWin Casino. All rights reserved",
-  "popup_text": null,
+  "popup_text": "Bonus 400% plus 200 FS on Starburst",
   "faq_title": "FAQ",
   "login_text": "Login",
   "register_text": "Sign Up",
-  "slots_title": null,
-  "bonus_title": null,
+  "slots_title": "Popular Slots at ShelbyWin Casino",
+  "bonus_title": "Shelbywin Casino:  Welcome Package, Bonus Terms ",
   "get_bonus_btn_text": "Get Bonus",
   "redirect_link": "/play/",
   "home_name": "ShelbyWin Casino",
@@ -49,8 +49,8 @@
     "alt": "shelbywin logo"
   },
   "main_background_img": {
-    "url": "/uploads/d7df6e871beb2eb5e54c47b84658960b.webp",
-    "alt": "shelbywin baner 2"
+    "url": "/uploads/ce0b19439ddc60b656d96542b5bba2a9.jpg",
+    "alt": "shelbywin baner ai"
   },
   "header_menu": null,
   "footer_menu": null,
@@ -59,8 +59,8 @@
   "Bonuses": null,
   "Reviews": null,
   "FAQ": null,
-  "_generated_at": "2026-08-27T08:57:53.188Z",
+  "_generated_at": "2026-08-27T09:22:40.397Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-08-27T08:57:53.787Z",
-  "_deploy_trigger": "tmn9t3"
+  "_last_deploy": "2026-08-27T09:22:40.928Z",
+  "_deploy_trigger": "zmy08tm"
 }
