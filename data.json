@@ -1,7 +1,7 @@
 {
   "name": "shelbywincasino.org",
   "site_name": "ShelbyWin Casino UK – Official Site 2026",
-  "html_head": "",
+  "html_head": "<link rel=\"canonical\" href=\"https://shelbywincasino.org/en-gb/\">\n<link rel=\"alternate\" href=\"https://shelbywincasino.org/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://shelbywincasino.org/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en-GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"ShelbyWin Casino UK – Official Site 2026\">\n<meta property=\"og:description\" content=\"Experience top-tier gaming at Shelbywin Casino. Explore thousands of slots, live dealer tables, and exclusive welcome 4 packages. Join Shelbywin today!\">\n<meta property=\"og:url\" content=\"shelbywincasino.org\">\n<meta property=\"og:site_name\" content= \"ShelbyWin Casino Online\">\n",
   "url": "shelbywincasino.org",
   "template": "tupchiy",
   "language_code": "en",
@@ -79,12 +79,12 @@
   "accent_color": "#d4af37",
   "main_background": null,
   "secondary_background": null,
-  "button_background": null,
-  "button_text_color": null,
-  "text_color": null,
-  "color_highlight_text": null,
-  "color_main_btn_text": null,
-  "cta_background": null,
+  "button_background": "#E78417",
+  "button_text_color": "#F2F2F2",
+  "text_color": "#2F1B05",
+  "color_highlight_text": "#F2F2F2",
+  "color_main_btn_text": "#F2F2F2",
+  "cta_background": "#E78417",
   "logo": {
     "url": "/uploads/05d11495e88bca8e9dd6650a807101bd.webp",
     "alt": "shelbywin logo"
@@ -97,7 +97,44 @@
     "url": "/uploads/ce0b19439ddc60b656d96542b5bba2a9.jpg",
     "alt": "shelbywin baner ai"
   },
-  "header_menu": null,
+  "header_menu": [
+    {
+      "link": "/play/",
+      "label": "Games",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Bonuses",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Sports",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "App",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Payments",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Support",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
   "footer_menu": null,
   "footer_images": null,
   "Slots": [
@@ -169,9 +206,9 @@
       "question": "Can I play on mobile without downloading an app?"
     }
   ],
-  "_generated_at": "2026-08-27T09:55:09.529Z",
+  "_generated_at": "2026-08-27T10:12:43.792Z",
   "_version": "1.0.0",
   "content_alt": "shelbywin bonus",
-  "_last_deploy": "2026-08-27T09:55:10.154Z",
-  "_deploy_trigger": "ym916a"
+  "_last_deploy": "2026-08-27T10:12:44.367Z",
+  "_deploy_trigger": "w158jh"
 }
