@@ -212,6 +212,31 @@
       "link": "https://www.gamcare.org.uk/",
       "image": "/uploads/1bfe3b454cda5ccf482e868ba2dfdc15.webp",
       "image_alt": "gamcare"
+    },
+    {
+      "link": "",
+      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
+      "image_alt": "visa"
+    },
+    {
+      "link": "",
+      "image": "/uploads/2333a8386ea6b8af17c8fa8ac44035e2.svg",
+      "image_alt": "mastercard"
+    },
+    {
+      "link": "",
+      "image": "/uploads/767309a1bb8da0f68e987f277a6ebbf1.webp",
+      "image_alt": "bitcoin"
+    },
+    {
+      "link": "",
+      "image": "/uploads/657303d64f52b7d3416483142b9b416c.svg",
+      "image_alt": "skrill"
+    },
+    {
+      "link": "",
+      "image": "/uploads/d02c7ab1de33229c4bd5f40fb84c2ba5.svg",
+      "image_alt": "maestro"
     }
   ],
   "Slots": [
@@ -219,25 +244,29 @@
       "link": "/play/",
       "logo": "/uploads/afe9c49b297c1aaec3e8520657ec00e9.webp",
       "name": "3Hot Chilli Peppers",
-      "Name": "3Hot Chilli Peppers"
+      "Name": "3Hot Chilli Peppers",
+      "logo_alt": "3HotChilliPeppers"
     },
     {
       "link": "/play/",
       "logo": "/uploads/c8a1b6361d7e764538f48bb65a8d2832.webp",
       "name": "Aviator",
-      "Name": "Aviator"
+      "Name": "Aviator",
+      "logo_alt": "aviator"
     },
     {
       "link": "/play/",
       "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
       "name": "Dead-or-Alive",
-      "Name": "Dead-or-Alive"
+      "Name": "Dead-or-Alive",
+      "logo_alt": "Dead or Alive"
     },
     {
       "link": "/play/",
       "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
       "name": "Book of Dead",
-      "Name": "Book of Dead"
+      "Name": "Book of Dead",
+      "logo_alt": "Book of Dead"
     }
   ],
   "Bonuses": [
@@ -283,10 +312,10 @@
       "question": "Can I play on mobile without downloading an app?"
     }
   ],
-  "_generated_at": "2026-08-27T13:04:18.565Z",
+  "_generated_at": "2026-08-31T10:01:47.352Z",
   "_version": "1.0.0",
   "html_head_alt": "shelbywin baner",
   "content_alt": "shelbywin bonus",
-  "_last_deploy": "2026-08-27T13:04:19.290Z",
-  "_deploy_trigger": "e45oen"
+  "_last_deploy": "2026-08-31T10:01:47.938Z",
+  "_deploy_trigger": "0ji9qr"
 }
