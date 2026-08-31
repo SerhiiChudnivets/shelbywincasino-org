@@ -107,7 +107,7 @@
   "login_text": "Login",
   "register_text": "Sign Up",
   "slots_title": "Popular Slots at ShelbyWin Casino",
-  "bonus_title": "Shelbywin Casino:  Welcome Package, Bonus Terms ",
+  "bonus_title": "Shelbywin Casino: Welcome Package, Bonus Terms ",
   "get_bonus_btn_text": "Get Bonus",
   "redirect_link": "/play/",
   "home_name": "Shelbywin Casino",
@@ -312,10 +312,10 @@
       "question": "Can I play on mobile without downloading an app?"
     }
   ],
-  "_generated_at": "2026-08-31T10:01:47.352Z",
+  "_generated_at": "2026-08-31T14:29:33.159Z",
   "_version": "1.0.0",
   "html_head_alt": "shelbywin baner",
   "content_alt": "shelbywin bonus",
-  "_last_deploy": "2026-08-31T10:01:47.938Z",
-  "_deploy_trigger": "0ji9qr"
+  "_last_deploy": "2026-08-31T14:29:33.754Z",
+  "_deploy_trigger": "q3s88t"
 }
