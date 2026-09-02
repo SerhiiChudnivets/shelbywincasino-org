@@ -22,28 +22,87 @@
       "gptPrompt": "",
       "heroTitle": "ShelbyWin Casino Online",
       "heroSubtitle": "Welcome Bonus",
-      "heroImage": "/uploads/dfbeec58717319c8c17ec873559b5d02.webp",
+      "heroImage": "/uploads/7f59c4c8076ad6321880edf6bb02400e.webp",
       "template": "homepage",
       "isHomepage": false,
       "order": 0,
       "lang": "en-GB",
       "faqTitle": "FAQ",
+      "popupText": "Bonus 400% + 200 FS on Starburst",
+      "popupLogo": "/uploads/05d11495e88bca8e9dd6650a807101bd.webp",
       "sections": null,
+      "slots": [
+        {
+          "link": "/play/",
+          "logo": "/uploads/afe9c49b297c1aaec3e8520657ec00e9.webp",
+          "name": "3Hot Chilli Peppers",
+          "Name": "3Hot Chilli Peppers",
+          "logo_alt": "3HotChilliPeppers"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/c8a1b6361d7e764538f48bb65a8d2832.webp",
+          "name": "Aviator",
+          "Name": "Aviator",
+          "logo_alt": "aviator"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+          "name": "Dead-or-Alive",
+          "Name": "Dead-or-Alive",
+          "logo_alt": "Dead or Alive"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+          "name": "Book of Dead",
+          "Name": "Book of Dead",
+          "logo_alt": "Book of Dead"
+        }
+      ],
+      "bonuses": [
+        {
+          "link": "/play/",
+          "logo": "/uploads/84b8bb6efb01f9fe942a68455c4a62db.webp",
+          "name": "First Deposit Bonus: 400% bonus + 200 Free Spins ",
+          "Name": "First Deposit Bonus: 400% bonus + 200 Free Spins ",
+          "logo_alt": "Welcome Bonus"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/ecc8727428ea72bf8a936a083ccaebe8.webp",
+          "name": "Second Deposit Bonus: 250% bonus and 150 Free Spins",
+          "Name": "Second Deposit Bonus: 250% bonus and 150 Free Spins",
+          "logo_alt": "Weekly Bonus"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/e8e32e9f5bba4b2b960098a8e5b37406.webp",
+          "name": "Third Deposit Bonus: 150% extra cash and 100 Free Spins ",
+          "Name": "Third Deposit Bonus: 150% extra cash and 100 Free Spins ",
+          "logo_alt": "Cashback Bonus"
+        }
+      ],
       "faq": [],
       "websiteId": 135,
       "createdAt": {},
       "updatedAt": {},
+      "popup_text": "Bonus 400% + 200 FS on Starburst",
+      "popup_logo": "/uploads/05d11495e88bca8e9dd6650a807101bd.webp",
       "hero_title": "ShelbyWin Casino Online",
       "hero_subtitle": "Welcome Bonus",
-      "hero_image": "/uploads/dfbeec58717319c8c17ec873559b5d02.webp",
+      "hero_image": "/uploads/7f59c4c8076ad6321880edf6bb02400e.webp",
       "seo_title": "ShelbyWin Casino UK – Official Site 2026",
       "seo_description": "Experience top-tier gaming at Shelbywin Casino. Explore thousands of slots, live dealer tables, and exclusive welcome 4 packages. Join Shelbywin today!",
       "html_head": "<link rel=\"canonical\" href=\"https://shelbywincasino.org/en-gb/\">\n<link rel=\"alternate\" href=\"https://shelbywincasino.org/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://shelbywincasino.org/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"ShelbyWin Casino UK – Official Site 2026\">\n<meta property=\"og:description\" content=\"Experience top-tier gaming at Shelbywin Casino. Explore thousands of slots, live dealer tables, and exclusive welcome 4 packages. Join Shelbywin today!\">\n<meta property=\"og:url\" content=\"shelbywincasino.org\">\n<meta property=\"og:site_name\" content= \"ShelbyWin Casino Online\">\n<meta property=\"og:image\" content=\"https://shelbywincasino.org/uploads/dfbeec58717319c8c17ec873559b5d02.webp\">",
       "faq_title": "FAQ",
       "content_alt": "shelbywin bonus",
       "htmlHead_alt": "shelbywin baner",
-      "heroImage_alt": "shelbywin baner",
-      "hero_image_alt": "shelbywin baner",
+      "heroImage_alt": "shelbywin casino",
+      "popupLogo_alt": "shelbywin logo",
+      "popup_logo_alt": "shelbywin logo",
+      "hero_image_alt": "shelbywin casino",
       "html_head_alt": "shelbywin baner"
     }
   ],
@@ -130,8 +189,8 @@
     "alt": "shelbywin logo"
   },
   "main_background_img": {
-    "url": "/uploads/dfbeec58717319c8c17ec873559b5d02.webp",
-    "alt": "shelbywin baner"
+    "url": "/uploads/7f59c4c8076ad6321880edf6bb02400e.webp",
+    "alt": "shelbywin casino"
   },
   "header_menu": [
     {
@@ -274,19 +333,22 @@
       "link": "/play/",
       "logo": "/uploads/84b8bb6efb01f9fe942a68455c4a62db.webp",
       "name": "First Deposit Bonus: 400% bonus + 200 Free Spins ",
-      "Name": "First Deposit Bonus: 400% bonus + 200 Free Spins "
+      "Name": "First Deposit Bonus: 400% bonus + 200 Free Spins ",
+      "logo_alt": "Welcome Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/ecc8727428ea72bf8a936a083ccaebe8.webp",
       "name": "Second Deposit Bonus: 250% bonus and 150 Free Spins",
-      "Name": "Second Deposit Bonus: 250% bonus and 150 Free Spins"
+      "Name": "Second Deposit Bonus: 250% bonus and 150 Free Spins",
+      "logo_alt": "Weekly Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/e8e32e9f5bba4b2b960098a8e5b37406.webp",
       "name": "Third Deposit Bonus: 150% extra cash and 100 Free Spins ",
-      "Name": "Third Deposit Bonus: 150% extra cash and 100 Free Spins "
+      "Name": "Third Deposit Bonus: 150% extra cash and 100 Free Spins ",
+      "logo_alt": "Cashback Bonus"
     }
   ],
   "Reviews": null,
@@ -312,10 +374,10 @@
       "question": "Can I play on mobile without downloading an app?"
     }
   ],
-  "_generated_at": "2026-08-31T14:29:33.159Z",
+  "_generated_at": "2026-09-02T11:13:18.603Z",
   "_version": "1.0.0",
   "html_head_alt": "shelbywin baner",
   "content_alt": "shelbywin bonus",
-  "_last_deploy": "2026-08-31T14:29:33.754Z",
-  "_deploy_trigger": "q3s88t"
+  "_last_deploy": "2026-09-02T11:13:19.227Z",
+  "_deploy_trigger": "188vqr"
 }
