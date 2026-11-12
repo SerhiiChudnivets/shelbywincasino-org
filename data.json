@@ -421,13 +421,13 @@
   },
   "header_menu": [
     {
-      "link": "/play/",
+      "link": "/login/",
       "label": "Login",
       "submenu": [],
       "openInNewTab": false
     },
     {
-      "link": "/play/",
+      "link": "/games/",
       "label": "Games",
       "submenu": [],
       "openInNewTab": false
@@ -572,9 +572,9 @@
       "question": "Can I play on mobile without downloading an app?"
     }
   ],
-  "_generated_at": "2026-11-12T11:49:46.159Z",
+  "_generated_at": "2026-11-12T11:51:44.966Z",
   "_version": "1.0.0",
   "content_alt": "shelbywin bonus",
-  "_last_deploy": "2026-11-12T11:49:46.900Z",
-  "_deploy_trigger": "6cc268"
+  "_last_deploy": "2026-11-12T11:51:45.645Z",
+  "_deploy_trigger": "uhjhhe"
 }
